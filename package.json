@@ -1,0 +1,15 @@
+{
+  "name": "@qyhever/reset.css",
+  "version": "1.0.0",
+  "main": "reset.css",
+  "style": "reset.css",
+  "repository": "https://github.com/qyhever/reset.css",
+  "author": "qyhever <yesterday.today.tomorrow2000@gmail.com>",
+  "description": "Reset browser default style",
+  "keywords": [
+    "css",
+    "reset",
+    "normalize"
+  ],
+  "license": "MIT"
+}
