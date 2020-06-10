@@ -5,7 +5,7 @@ Reset browser default style.
 ## Installation
 
 ```
-npm install basic.css --save
+npm install @qyhever/basic.css --save
 ```
 
 ## Example
